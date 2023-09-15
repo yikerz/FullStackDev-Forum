@@ -1,0 +1,52 @@
+.comments {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.comments-header {
+  font-size: 20px;
+  margin: 0;
+}
+
+.comment-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.comment-content {
+  margin: 30px;
+  word-wrap: break-word;
+  max-width: 100vh;
+  font-size: 18px;
+}
+
+.comment-author {
+  font-style: italic;
+  margin-top: 5px;
+}
+
+.comment-date {
+  color: #888;
+}
+
+  
+.author-link {
+  margin-left: 5px;
+}
+
+.icon-group {
+  float: right;
+}
+
+.deleted-user {
+  margin-left: 5px;
+}
+
+.confirm-edit {
+  float: right;
+}
